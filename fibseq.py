@@ -1,5 +1,10 @@
 #create a function that will calculate the fibonacci sequence
 
+'''
+- Add to the user input check to make sure that they enter a number, not a letter as well
+- Add check that asks the user at the end if they want to see more fibonacci numbers
+'''
+
 def fib_seq(n):
     if n <= 1:
         return n
