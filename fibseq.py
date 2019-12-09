@@ -21,7 +21,6 @@ def user_num():
             continue
         else:
             x = int(x)
-            ask_again = True
             break
 
     return x
